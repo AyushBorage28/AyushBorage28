@@ -1,11 +1,13 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ayush!](https://www.linkedin.com/in/ayush-borage-3ab166225/) 
 
-### 🚀 Languages and Tools:
+<h1 align="left">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"/>, I'm Ayush !</h1>
+<!-- <h3 align="left">Programmer | Web Developer | Graphic Designer</h3> -->
+ 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px"/> </a>
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" width="50px" height="50px"/> </a>
-    <a href="https://graphql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50px" height="50px" /> </a>
+    <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
+   <code><a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="42px"/></a></code>
+    <code> <a href="https://nextjs.org/" target="_blank"> <img src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" height="42px"/></a></code>
+   <code> <a href="https://graphql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"height="42px" /></a></code>
     <a href="https://graphcms.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/31031438?s=200&v=4" width="50px" height="50px"/> </a>
     <a href="https://apollographql.com/" target="_blank"> <img src="https://img.icons8.com/color/58/000000/apollo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px"/> </a> 
