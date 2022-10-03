@@ -80,7 +80,7 @@
 
 ## 📬 Reach me out
 <p align="left">
-<a href = "https://www.linkedin.com/in/ayushborage/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/ayush-borage-3ab166225/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ayushborage"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/ayushborage"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/itsayush_02/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
