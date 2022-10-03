@@ -1,7 +1,27 @@
 
 <h1 align="left">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"/>, I'm Ayush !</h1>
 <!-- <h3 align="left">Programmer | Web Developer | Graphic Designer</h3> -->
- 🚀 Languages and Tools:
+<!-- <a href="https://app.daily.dev/gurpreet_legend"><img align="right" src="https://api.daily.dev/devcards/316b95e8f8844d658917cbedee0a9567.png?r=y21" width="250" alt="Gurpreet Singh's Dev Card"/></a> -->
+
+### 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **Open Source**
+
+- 🌱 I’m currently learning **Django**
+
+- 👨‍💻 All of my projects are available at ****
+
+- 📫 How to reach me **ayushborage28@gmail.com**
+
+- ⚡ Fun fact **I like to **
+
+- 🤝  I would love to interact with you, on any topic you want. Let's meet **[here](https://calendly.com/ayushborage/30min)**
+
+### 🎶 Vibing to
+[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/album/6U3xoLDkmM8QD6Zi9n6kmP?highlight=spotify:track:7m97u5zpSWqkDjN4uwY2LP)
+
+
+### 🚀 Languages and Tools:
 
 <p align="left"> 
     <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
