@@ -1,7 +1,7 @@
 
 <h1 align="left">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"/>, I'm Ayush !</h1>
-<!-- <h3 align="left">Programmer | Web Developer | Graphic Designer</h3> -->
-<!-- <a href="https://app.daily.dev/gurpreet_legend"><img align="right" src="https://api.daily.dev/devcards/316b95e8f8844d658917cbedee0a9567.png?r=y21" width="250" alt="Gurpreet Singh's Dev Card"/></a> -->
+<h3 align="left">Programmer | Web Developer | Graphic Designer</h3>
+
 
 ### 🙋‍♂️ About Me
 
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at ****
+<!-- - 👨‍💻 All of my projects are available at **** -->
 
 - 📫 How to reach me **ayushborage28@gmail.com**
 
-- ⚡ Fun fact **I like to **
+- ⚡ Fun fact **I like to** read books and write jokes
 
 - 🤝  I love to interact with people, let's meet **[here](https://calendly.com/ayushborage/30min)** and talk on whichever topic you want.
 
