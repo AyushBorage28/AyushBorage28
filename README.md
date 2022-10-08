@@ -41,23 +41,23 @@
    <code> <a href="https://mui.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"height="42px" width="42px"/></a></code>
    <code> <a href="https://chakra-ui.com/" target="_blank"> <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/0f0c764465ee27178b94e026f6d6eafd9c23c09d/logo/logomark-colored.svg"height="42px" width="42px"rounded-corners/></a></code>
    <code><a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="42px"/></a></code>
-   <code> <a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="42px" height="42px"/></a></code>
-  <code>  <a href="https://www.canva.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"height="42px" width="42px"/> </a></code>
-  <code>  <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" height="50px" /> </a> </code>
-   <code> <a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px" height="50px"/></a></code>
-   <code> <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" height="50px" /> </a></code>
-  <code><a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50px" height="50px"/> </a></code>
-    <code><a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" height="50px"/> </a></code>
-  <code><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> </code>  
-  <code><a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px"/> </a> </code>
-   <code> <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/github.png"/> </a></code>
- <code>   <a href="https://www.heroku.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="50px" height="50px" /> </a></code>
- <code>   <a href="https://www.netlify.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" width="50px" height="50px"/> </a></code>
- <code>   <a href="https://vercel.com/" target="_blank"> <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" width="50px" height="50px"/> </a></code>
-  <code>  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a></code>
-  <code>  <a href="https://vitejs.dev/" target="_blank"> <img width="50px" height="50px" src="https://vitejs.dev/logo.svg" alt="Vite logo"> </a></code>
-  <code>  <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50px" height="50px"/> </a></code>
-  <code>  <a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" height="50px"/> </a></code>
+   <code><a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="42px" height="42px"/></a></code>
+  <code><a href="https://www.canva.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"height="42px" width="40px"/></a></code>
+  <code><a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"height="42px"/></a></code>
+   <code><a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"height="42px" width="42px"/></a></code>
+   <code> <a "href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"height="42px"/></a></code>
+  <code><a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40px" height="42px"/></a></code>
+    <code><a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42px" height="42px"/></a></code>
+  <code><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40px" height="42px"/></a></code>  
+  <code><a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"width="38px" height="42px"/></a></code>
+   <code><a href="https://github.com/"target="_blank"><img src="https://img.icons8.com/nolan/64/github.png"width="40px"height="42px"/></a></code>
+ <code><a href="https://www.heroku.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"width="38px"height="42px"/></a></code>
+ <code><a href="https://www.netlify.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" width="42px"height="42px"/></a></code>
+ <code><a href="https://vercel.com/"target="_blank"><img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67"width="42px"height="42px"/></a></code>
+  <code><a href="https://www.w3schools.com/cpp/"target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"width="42px"height="42px"/></a></code>
+  <code><a href="https://vitejs.dev/" target="_blank"><img width="42px"height="42px"src="https://vitejs.dev/logo.svg"alt="Vite logo"></a></code>
+  <code><a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42px" height="42px"/></a></code>
+  <code><a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"width="42px" height="42px"/></a></code>
   <code>  <a href="https://docusaurus.io/" target="_blank"> <img src="https://api.iconify.design/logos/docusaurus.svg" width="50px" height="50px" /> </a></code>
   <code>  <a href="https://docs.soliditylang.org/en/v0.8.11/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="50px" height="50px"/> </a></code>
   <code>  <a href="https://web3js.readthedocs.io/en/v1.7.0/"><img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" width="50px" height="50px"/> </a></code>
