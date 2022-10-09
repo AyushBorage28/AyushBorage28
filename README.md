@@ -18,7 +18,8 @@
 - 🤝  I love to interact with people, let's meet **[here](https://calendly.com/ayushborage/30min)** and talk on whichever topic you want.
 
 ### 🎶 Vibing to
-[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/album/6U3xoLDkmM8QD6Zi9n6kmP?highlight=spotify:track:7m97u5zpSWqkDjN4uwY2LP)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zkadg5ftmi4utyaxt5aq2vpa64&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31zkadg5ftmi4utyaxt5aq2vpa64&redirect=true)
+
 
 
 ### 🚀 Languages and Tools:
