@@ -61,7 +61,7 @@
   <code><a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42px" height="42px"/></a></code>
   <code><a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"width="42px" height="42px"/></a></code>
     <br></br>
-  <code><a href="https://docusaurus.io/" target="_blank"><img src="https://api.iconify.design/logos/docusaurus.svg" width="42px" height="42px" /></a></code>
+<!--   <code><a href="https://docusaurus.io/" target="_blank"><img src="https://api.iconify.design/logos/docusaurus.svg" width="42px" height="42px" /></a></code>
   <code><a href="https://docs.soliditylang.org/en/v0.8.11/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="42px" height="42px"/></a></code>
   <code><a href="https://web3js.readthedocs.io/en/v1.7.0/"><img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" width="42px" height="42px"/></a></code>
   <code><a href="https://trufflesuite.com/ganache/"><img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" width="42px" height="42px"/></a></code>
@@ -70,7 +70,7 @@
    <code><a href="https://en.wikipedia.org/wiki/Markdown"><img src="https://img.icons8.com/officel/80/000000/markdown.png" width="42px" height="42px"/></a></code>
   <code><a href="https://github.com/facebook/jest"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="42px" height="42px"/></a></code>
    <code><a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="42px" height="42px"/></a></code>
-  <code><a href="https://github.com/features/actions"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="42px" height="42px"/></a></code>
+  <code><a href="https://github.com/features/actions"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="42px" height="42px"/></a></code> -->
     
     
     
