@@ -2,6 +2,11 @@
 <h1 align="left">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"/>, I'm Ayush !</h1>
 <h3 align="left">Programmer | Web Developer | Graphic Designer</h3>
 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ### 🙋‍♂️ About Me
 
@@ -19,6 +24,7 @@
 
 ### 🎶 Vibing to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zkadg5ftmi4utyaxt5aq2vpa64&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31zkadg5ftmi4utyaxt5aq2vpa64&redirect=true)
+
 
 
 
@@ -96,9 +102,10 @@
 
 
 
-## 📬 Reach me out
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Connect with me
+
 <p align="left">
-<a href = "https://www.linkedin.com/in/ayush-borage-3ab166225/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ayushborage"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/itsayush_02/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href="https://www.linkedin.com/in/ayush-borage-3ab166225/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="mailto:ayushborage28@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+    <a href="https://www.instagram.com/itsayush_02/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
