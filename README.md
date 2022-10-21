@@ -94,7 +94,7 @@
     </a>
 </p>
 
-<a href="https://github.com/kailash360/github-readme-activity-graph"><img alt="Ayush Borage's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayushborage28&bg_color=0D1117&color=58a6ff&line=58a6ff&point=FFFFFF&hide_border=true" /></a>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushborage28&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
     
   ### 📛 Badges
