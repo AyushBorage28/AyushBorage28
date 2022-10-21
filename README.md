@@ -94,7 +94,7 @@
     </a>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushborage28&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushborage28&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
     
   ### 📛 Badges
