@@ -109,3 +109,11 @@
 <a href="mailto:ayushborage28@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
     <a href="https://www.instagram.com/itsayush_02/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
+  
+
+  <div align="center">
+  
+   ![](https://visitor-badge.glitch.me/badge?page_id=ayushborage28.ayushborage28)
+  
+  </div>
+ 
