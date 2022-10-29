@@ -8,16 +8,17 @@
        alt="snake" /></a>
 </div>
 
+ 
 ### 🙋‍♂️ About Me
-<!-- <img align="right" alt="GIF" height="200px" width="200px" src="code.gif" /> -->
+ <img align="right" alt="GIF" height="200px" width="200px" src="code.gif" />
 
 - 🔭 I’m currently working on **Open Source**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django & Fronted Frameworks**
 
 <!-- - 👨‍💻 All of my projects are available at **** -->
 
-- 📫 How to reach me **ayushborage28@gmail.com**
+- 📫 Reach me at **ayushborage28@gmail.com**
 
 - ⚡ Fun fact **I like to** read books and write jokes
 
