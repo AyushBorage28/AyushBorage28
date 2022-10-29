@@ -10,7 +10,7 @@
 
  
 ### 🙋‍♂️ About Me
- <img align="right" alt="GIF" height="200px" width="200px" src="code.gif" />
+ <img align="right" alt="GIF" height="100px" width="100px" src="code.gif" />
 
 - 🔭 I’m currently working on **Open Source**
 
