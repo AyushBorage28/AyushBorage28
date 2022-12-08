@@ -91,12 +91,13 @@
 
 ### 📊 My Github Stats
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/ayushborage28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Borage's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ayushborage28&theme=blueberry_duo&hide_border=true"/>
     </a>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushborage28&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayushborage28&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
     
   ### 📛 Badges
