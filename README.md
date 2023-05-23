@@ -97,7 +97,6 @@
 </p>
 
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayushborage28&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
     
 <!--   ### 📛 Badges
@@ -114,9 +113,15 @@
 </p> -->
   
 
-  <div align="center">
-  
-   ![](https://visitor-badge.glitch.me/badge?page_id=ayushborage28.ayushborage28)
-  
+  <div align="center">   
+<a href="https://github.com/ayushboraeg28/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ayushborage28">
+</a>
   </div>
  
+  ## 📬 Reach me out
+<p align="left">
+<a href = "https://www.linkedin.com/in/ayush-borage-3ab166225/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/ayushborage"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/itsayush_02/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
