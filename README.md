@@ -8,6 +8,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@itsayush__02-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/itsayush_02/)](https://www.instagram.com/itsayush_02/)
 [![Gmail Badge](https://img.shields.io/badge/-ayushborage28-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ayushborage28@gmail.com)](mailto:ayushborage28@gmail.com)
 
+
 <h3 align="left">Full Stack Web Developer & UI/UX Designer based in India </h3>
 
 <div align="center">
@@ -77,16 +78,16 @@
   <code><a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42px" height="42px"/></a></code>
   <code><a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"width="42px" height="42px"/></a></code>
     <br></br>
-<!--   <code><a href="https://docusaurus.io/" target="_blank"><img src="https://api.iconify.design/logos/docusaurus.svg" width="42px" height="42px" /></a></code>
-  <code><a href="https://docs.soliditylang.org/en/v0.8.11/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="42px" height="42px"/></a></code>
+   <code><a href="https://docusaurus.io/" target="_blank"><img src="https://api.iconify.design/logos/docusaurus.svg" width="42px" height="42px" /></a></code>
+<!--   <code><a href="https://docs.soliditylang.org/en/v0.8.11/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="42px" height="42px"/></a></code> -->
   <code><a href="https://web3js.readthedocs.io/en/v1.7.0/"><img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" width="42px" height="42px"/></a></code>
   <code><a href="https://trufflesuite.com/ganache/"><img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" width="42px" height="42px"/></a></code>
-  <code><a href="https://trufflesuite.com/"><img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" width="42px" height="42px"/></a></code>
+<!--   <code><a href="https://trufflesuite.com/"><img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" width="42px" height="42px"/></a></code> -->
   <code><a href="https://testing-library.com/docs/react-testing-library/intro/"><img src="https://testing-library.com/img/octopus-128x128.png" width="42px" height="42px"/></a></code>
    <code><a href="https://en.wikipedia.org/wiki/Markdown"><img src="https://img.icons8.com/officel/80/000000/markdown.png" width="42px" height="42px"/></a></code>
   <code><a href="https://github.com/facebook/jest"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="42px" height="42px"/></a></code>
    <code><a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="42px" height="42px"/></a></code>
-  <code><a href="https://github.com/features/actions"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="42px" height="42px"/></a></code> -->
+  <code><a href="https://github.com/features/actions"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="42px" height="42px"/></a></code> 
     
     
     
@@ -104,32 +105,12 @@
     </a>
 </p>
 
-  
-
-    
-<!--   ### 📛 Badges
-[![@ayushborage28's Holopin board](https://holopin.me/ayushborage28)](https://holopin.io/@ayushborage28)
 
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Connect with me
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/ayush-borage-3ab166225/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="mailto:ayushborage28@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-    <a href="https://www.instagram.com/itsayush_02/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p> -->
-  
-
-  <div align="center">   
+ <div align="center">   
 <a href="https://github.com/ayushboraeg28/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ayushborage28">
 </a>
   </div>
- 
-  ## 📬 Reach me out
-<p align="left">
-<a href = "https://www.linkedin.com/in/ayush-borage-3ab166225/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ayushborage"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/itsayush_02/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
+
+
