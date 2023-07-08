@@ -33,6 +33,8 @@
 - ⚡ Fun fact **I like to** read books and write jokes
 
 - 🤝  I love to interact with people, let's meet **[here](https://calendly.com/ayushborage/30min)** and talk on whichever topic you want.
+  
+- 📝  Checkout my [resume](https://drive.google.com/file/d/1AKmGgnnnepx_801Yhry0XoA8TagKkNoj/view?usp=sharing)
 
 </br>
 
