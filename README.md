@@ -14,7 +14,7 @@
 </br>
  
 ### 🙋‍♂️ About Me
-  <img align="right" alt="GIF" height="200em" width="200em" src="code.gif" /> 
+  <img align="right" alt="GIF" height="200rem" width="200rem" src="code.gif" /> 
 
 - 🔭 I’m currently working as a **Freelancer**
 
