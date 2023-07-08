@@ -22,9 +22,9 @@
 ### 🙋‍♂️ About Me
 <!--  <img align="right" alt="GIF" height="100px" width="100px" src="code.gif" /> -->
 
-- 🔭 I’m currently working on **Open Source**
+- 🔭 I’m currently working as a **Freelancer**
 
-- 🌱 I’m currently learning **Django & Fronted Frameworks**
+- 🌱 I’m currently learning **Blockchain**
 
 <!-- - 👨‍💻 All of my projects are available at **** -->
 
