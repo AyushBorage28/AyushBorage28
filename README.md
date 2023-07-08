@@ -39,7 +39,7 @@
 
 
 
-### 🚀 Languages and Tools:
+### 🚀 Languages and Tools
 
 <p align="left"> 
     <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
@@ -104,6 +104,13 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Borage's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ayushborage28&theme=blueberry_duo&hide_border=true"/>
     </a>
 </p>
+
+ ### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [UI/UX Demystified: Your Guide to Creating User-Friendly Digital Experiences!](https://medium.com/@ayushborage28/ui-ux-demystified-your-guide-to-creating-user-friendly-digital-experiences-c154da30aa9a)
+- [Mastering Multilingual Websites with React i18n: Unleash Global Awesomeness!](https://medium.com/@ayushborage28/mastering-multilingual-websites-with-react-i18n-unleash-global-awesomeness-5430c236b662)
+- [Introduction to NodeRSA: Locking Up Your Secrets](https://medium.com/@ayushborage28/introduction-to-nodersa-locking-up-your-secrets-455dc90cad5e)
+<!-- BLOG-POST-LIST:END -->
 
 
 
