@@ -11,16 +11,10 @@
 
 <h3 align="left">Full Stack Web Developer & UI/UX Designer based in India </h3>
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 </br>
  
 ### 🙋‍♂️ About Me
-<!--  <img align="right" alt="GIF" height="100px" width="100px" src="code.gif" /> -->
+  <img align="right" alt="GIF" height="200em" width="200em" src="code.gif" /> 
 
 - 🔭 I’m currently working as a **Freelancer**
 
