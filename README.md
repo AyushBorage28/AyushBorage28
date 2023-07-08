@@ -17,6 +17,7 @@
        alt="snake" /></a>
 </div>
 
+</br>
  
 ### 🙋‍♂️ About Me
 <!--  <img align="right" alt="GIF" height="100px" width="100px" src="code.gif" /> -->
@@ -33,11 +34,13 @@
 
 - 🤝  I love to interact with people, let's meet **[here](https://calendly.com/ayushborage/30min)** and talk on whichever topic you want.
 
+</br>
+
 ### 🎶 Vibing to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zkadg5ftmi4utyaxt5aq2vpa64&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31zkadg5ftmi4utyaxt5aq2vpa64&redirect=true)
 
 
-
+</br>
 
 ### 🚀 Languages and Tools
 
@@ -88,22 +91,25 @@
   <code><a href="https://github.com/facebook/jest"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="42px" height="42px"/></a></code>
    <code><a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="42px" height="42px"/></a></code>
   <code><a href="https://github.com/features/actions"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="42px" height="42px"/></a></code> 
-    
-    
-    
-    
-    
-
-    
-    
+   
 </p>
 
+</br>
+
 ### 📊 My Github Stats
+<div display="flex" align="center">
+  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  </div>
+  
 <p align="center">
     <a href="https://github.com/ayushborage28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Borage's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ayushborage28&theme=blueberry_duo&hide_border=true"/>
     </a>
 </p>
+
+</br>
 
  ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
