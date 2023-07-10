@@ -8,15 +8,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-@itsayush__02-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/itsayush_02/)](https://www.instagram.com/itsayush_02/)
 [![Gmail Badge](https://img.shields.io/badge/-ayushborage28-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ayushborage28@gmail.com)](mailto:ayushborage28@gmail.com)
 
-
-
-
-
-
-
-
+<h3 align="left">A WebDev Enthusiast based in India</h3>
 </br>
- 
+
 ### 🙋‍♂️ About Me
   <img align="right" alt="GIF" height="200rem" width="200rem" src="code.gif" /> 
 
