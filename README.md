@@ -27,13 +27,11 @@
   
 - 📝  Checkout my **[resume](https://drive.google.com/file/d/1AKmGgnnnepx_801Yhry0XoA8TagKkNoj/view?usp=sharing)**
 
-</br>
 
 ### 🎶 Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zkadg5ftmi4utyaxt5aq2vpa64&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31zkadg5ftmi4utyaxt5aq2vpa64&redirect=true)
 
 
-</br>
 
 ### 🚀 Languages and Tools
 
@@ -87,7 +85,6 @@
    
 </p>
 
-</br>
 
 ### 📊 My Github Stats
 <div display="flex" align="center">
@@ -102,7 +99,6 @@
     </a>
 </p>
 
-</br>
 
  ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
