@@ -8,8 +8,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-@itsayush__02-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/itsayush_02/)](https://www.instagram.com/itsayush_02/)
 [![Gmail Badge](https://img.shields.io/badge/-ayushborage28-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ayushborage28@gmail.com)](mailto:ayushborage28@gmail.com)
 
+<a href="https://ayush-borage.tech/" target="_blank">![My banner](https://github.com/AyushBorage28/AyushBorage28/assets/99349720/591f7edc-d555-41f9-8ab4-4737017fbd39)</a>
 
-<h3 align="left">Full Stack Web Developer & UI/UX Designer based in India </h3>
+
+
 
 </br>
  
