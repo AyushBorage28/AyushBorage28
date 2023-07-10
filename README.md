@@ -1,4 +1,4 @@
-
+<img  alt="my banner"  src="cover photo.png" /> 
 <h1 align="left">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"/>, I'm Ayush !</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ayushborage-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-borage-3ab166225/)](https://www.linkedin.com/in/ayush-borage-3ab166225/)
@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-ayushborage28-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ayushborage28@gmail.com)](mailto:ayushborage28@gmail.com)
 
 
-<img  alt="my banner"  src="cover photo.png" /> 
+
 
 
 
