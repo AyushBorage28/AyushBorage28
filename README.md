@@ -100,12 +100,20 @@
 </p>
 
 
+
+
  ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [UI/UX Demystified: Your Guide to Creating User-Friendly Digital Experiences!](https://medium.com/@ayushborage28/ui-ux-demystified-your-guide-to-creating-user-friendly-digital-experiences-c154da30aa9a)
 - [Mastering Multilingual Websites with React i18n: Unleash Global Awesomeness!](https://medium.com/@ayushborage28/mastering-multilingual-websites-with-react-i18n-unleash-global-awesomeness-5430c236b662)
 - [Introduction to NodeRSA: Locking Up Your Secrets](https://medium.com/@ayushborage28/introduction-to-nodersa-locking-up-your-secrets-455dc90cad5e)
 <!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  
+[![AyushBorage28's GitHub | Stats](https://stats.quine.sh/AyushBorage28/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AyushBorage28)
+[![AyushBorage28's GitHub | Dependencies](https://stats.quine.sh/AyushBorage28/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AyushBorage28)
+</p>
 
 
 
