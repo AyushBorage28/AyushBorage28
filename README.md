@@ -109,11 +109,7 @@
 - [Introduction to NodeRSA: Locking Up Your Secrets](https://medium.com/@ayushborage28/introduction-to-nodersa-locking-up-your-secrets-455dc90cad5e)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-  
-[![AyushBorage28's GitHub | Stats](https://stats.quine.sh/AyushBorage28/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AyushBorage28)
-[![AyushBorage28's GitHub | Dependencies](https://stats.quine.sh/AyushBorage28/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AyushBorage28)
-</p>
+
 
 
 
