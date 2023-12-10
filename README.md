@@ -22,8 +22,6 @@
 - 📫 Reach me at **ayushborage28@gmail.com**
 
 - ⚡ Fun fact **I like to** read books and write jokes
-
-- 🤝  I love to interact with people, let's meet **[here](https://calendly.com/ayushborage/30min)** and talk on whichever topic you want.
   
 - 🌐  Visit **[ayush-borage.tech](https://ayush-borage.tech/)**
 
