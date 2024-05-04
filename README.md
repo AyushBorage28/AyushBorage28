@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I like to** read books and write jokes
   
-- 🌐  Visit **[ayush-borage.tech](https://ayush-borage.tech/)**
+- 🌐  Visit **[ayush-borage.live](https://ayushborage.live/)**
 
 
 ### 🎶 Spotify Playing
