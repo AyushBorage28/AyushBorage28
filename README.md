@@ -13,17 +13,18 @@
 ### 🙋‍♂️ About Me
   <img align="right" alt="GIF" height="200rem" width="200rem" src="code.gif" /> 
 
-- 🔭 I’m currently working as a **Freelancer**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+  
+- 🔭 I’m also enhancing myself in the field of **Machine Learning**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🖋️ I love to write technical blogs. Check them out at **[My Blogs](https://medium.com/@ayushborage28)**
+
 
 <!-- - 👨‍💻 All of my projects are available at **** -->
 
 - 📫 Reach me at **ayushborage28@gmail.com**
-
-- ⚡ Fun fact **I like to** read books and write jokes
   
-- 🌐  Visit **[ayush-borage.live](https://ayushborage.live/)**
+- 🌐  More of me at **[ayush-borage.live](https://ayushborage.live/)**
 
 
 ### 🎶 Spotify Playing
