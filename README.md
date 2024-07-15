@@ -85,7 +85,7 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushborage28&show_icons=true&theme=tokyonight)
  
-  </div>
+ 
   
 <p align="center">
     <a href="https://github.com/ayushborage28/github-readme-streak-stats">
@@ -93,6 +93,9 @@
     </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayushborage28&theme=onedark)](https://github.com/ayushborage28/github-profile-trophy)
+
+ </div>
 
 
 
