@@ -108,9 +108,7 @@
 - [UI/UX Demystified: Your Guide to Creating User-Friendly Digital Experiences!](https://bootcamp.uxdesign.cc/ui-ux-demystified-your-guide-to-creating-user-friendly-digital-experiences-c154da30aa9a?source=rss-6c3b128db287------2)
 <!-- BLOG-POST-LIST:END -->
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 
 
