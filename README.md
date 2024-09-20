@@ -105,7 +105,7 @@
 - [Navigating the Digital Maze: A Beginner’s Guide to Google Analytics GA4](https://medium.com/@ayushborage28/beginners-guide-to-google-analytics-ga4-56760a2b1648?source=rss-6c3b128db287------2)
 - [Spotify’s Symphony: The Unstoppable Rise of the World’s Ultimate Music Player](https://medium.com/@ayushborage28/spotifys-symphony-the-unstoppable-rise-of-the-world-s-ultimate-music-player-1411d0a3e3df?source=rss-6c3b128db287------2)
 - [Master Your Developer Identity: The GitHub Profile README Revolution](https://medium.com/@ayushborage28/master-your-developer-identity-the-github-profile-readme-revolution-ee433551466b?source=rss-6c3b128db287------2)
-- [UI/UX Demystified: Your Guide to Creating User-Friendly Digital Experiences!](https://bootcamp.uxdesign.cc/ui-ux-demystified-your-guide-to-creating-user-friendly-digital-experiences-c154da30aa9a?source=rss-6c3b128db287------2)
+- [UI/UX Demystified: Your Guide to Creating User-Friendly Digital Experiences!](https://medium.com/design-bootcamp/ui-ux-demystified-your-guide-to-creating-user-friendly-digital-experiences-c154da30aa9a?source=rss-6c3b128db287------2)
 <!-- BLOG-POST-LIST:END -->
 
 
