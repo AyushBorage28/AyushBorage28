@@ -24,7 +24,7 @@
 
 - 📫 Reach me at **ayushborage28@gmail.com**
   
-- 🌐  More of me at **[ayush-borage.live](https://ayushborage.live/)**
+- 🌐  More of me at **[ayushborage-portfolio](https://ayushborage-portfolio.vercel.app/)**
 
 
 ### 🎶 Spotify Playing
