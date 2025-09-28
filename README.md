@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ayushborage-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-borage-3ab166225/)](https://www.linkedin.com/in/ayush-borage-3ab166225/)
 [![Medium Badge](https://img.shields.io/badge/-@ayushborage28-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ayushborage28)](https://medium.com/@ayushborage28)
-[![Website Badge](https://img.shields.io/badge/-ayushborage.live-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ayush-borage.live/)](https://ayushborage-portfolio.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/-ayushborage.live-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ayushborage-portfolio.vercel.app/)](https://ayushborage-portfolio.vercel.app/)
 [![Twitter Badge](https://img.shields.io/badge/-@ayushborage-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/i/flow/login?redirect_after_login=%2FAyushBorage)](https://twitter.com/i/flow/login?redirect_after_login=%2FAyushBorage)
 [![Instagram Badge](https://img.shields.io/badge/-@itsayush__02-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/itsayush_02/)](https://www.instagram.com/itsayush_02/)
 [![Gmail Badge](https://img.shields.io/badge/-ayushborage28-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ayushborage28@gmail.com)](mailto:ayushborage28@gmail.com)
